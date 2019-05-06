@@ -13,9 +13,9 @@
 此脚本只会下单，并不会付款，以防价格错误。
 
 ## 使用方法
-1. 首先安装Auto.JS(安卓)https://github.com/MonsterNone/auto-taobao.js/raw/master/4.1.1a%20Alpha2-armeabi-v7a-release.apk
+1. 首先安装Auto.js(安卓)https://github.com/MonsterNone/auto-taobao.js/raw/master/4.1.1a%20Alpha2-armeabi-v7a-release.apk
 2. 下载脚本https://github.com/MonsterNone/auto-taobao.js/raw/master/购物车抢购.js
-3. 打开Auto.JS，根据提示设置无障碍服务
+3. 打开Auto.js，根据提示设置无障碍服务
 4. 最好在设置里面把 音量上键停止所有脚本 打开
 5. 主界面点击加号导入，找到刚才下载的脚本
 6. 点击编辑按钮，根据需要修改第一行的商品数量number
