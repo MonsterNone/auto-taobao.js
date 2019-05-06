@@ -1,6 +1,8 @@
 # auto-taobao.js
 利用Auto.js抢购淘宝购物车内商品
 
+[![HitCount](http://hits.dwyl.io/MonsterNone/auto-taobaojs.svg)](http://hits.dwyl.io/MonsterNone/auto-taobaojs)
+
 ## 概述
 抢购淘宝购物车前n件商品(由于效率原因只支持第一页)，需要将要买的东西删除重新加入购物车以放在最前。
 
